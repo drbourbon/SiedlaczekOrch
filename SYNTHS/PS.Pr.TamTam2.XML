@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound firmwareVersion="3.0.4" earliestCompatibleFirmware="3.0.0" polyphonic="poly" voicePriority="1" mode="subtractive" lpfMode="12dB" modFXType="none">
+  <osc1 type="sample" loopMode="0" reversed="0" timeStretchEnable="0" timeStretchAmount="0">
+    <sampleRanges>
+      <sampleRange rangeTopNote="34" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A#1.wav" transpose="26">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="46" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A#2.wav" transpose="14">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="58" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A#3.wav" transpose="2">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="33" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A1.wav" transpose="27">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="45" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A2.wav" transpose="15">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="57" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A3.wav" transpose="3">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="69" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-A4.wav" transpose="-9">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="35" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-B1.wav" transpose="25">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="47" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-B2.wav" transpose="13">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="59" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-B3.wav" transpose="1">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="25" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C#1.wav" transpose="35">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="37" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C#2.wav" transpose="23">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="49" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C#3.wav" transpose="11">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="61" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C#4.wav" transpose="-1">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="24" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C1.wav" transpose="36">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="36" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C2.wav" transpose="24">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="48" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C3.wav" transpose="12">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="60" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-C4.wav" transpose="0">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="27" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D#1.wav" transpose="33">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="39" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D#2.wav" transpose="21">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="51" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D#3.wav" transpose="9">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="63" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D#4.wav" transpose="-3">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="26" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D1.wav" transpose="34">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="38" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D2.wav" transpose="22">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="50" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D3.wav" transpose="10">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="62" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-D4.wav" transpose="-2">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="28" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-E1.wav" transpose="32">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="40" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-E2.wav" transpose="20">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="52" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-E3.wav" transpose="8">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="64" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-E4.wav" transpose="-4">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="30" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F#1.wav" transpose="30">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="42" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F#2.wav" transpose="18">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="54" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F#3.wav" transpose="6">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="66" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F#4.wav" transpose="-6">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="29" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F1.wav" transpose="31">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="41" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F2.wav" transpose="19">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="53" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F3.wav" transpose="7">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="65" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-F4.wav" transpose="-5">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="32" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G#1.wav" transpose="28">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="44" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G#2.wav" transpose="16">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="56" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G#3.wav" transpose="4">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="68" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G#4.wav" transpose="-8">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="31" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G1.wav" transpose="29">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="43" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G2.wav" transpose="17">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="55" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G3.wav" transpose="5">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+    <sampleRanges>
+      <sampleRange rangeTopNote="67" fileName="SAMPLES/multis/emu/SiedlaczekOrch/Prc/TamTam2/TamTam2-G4.wav" transpose="-7">
+        <zone startSamplePos="0" endSamplePos="204810" />
+      </sampleRange>
+    </sampleRanges>
+  </osc1>
+  <osc2 type="square" transpose="0" cents="0" retrigPhase="-1" />
+  <lfo1 type="triangle" syncLevel="0" />
+  <lfo2 type="triangle" />
+  <unison num="1" detune="1" />
+  <compressor syncLevel="6" attack="327244" release="936" />
+  <delay pingPong="1" analog="0" syncLevel="7" />
+  <defaultParams arpeggiatorGate="0x00000000" portamento="0x80000000" compressorShape="0xDC28F5B2" oscAVolume="0x7FFFFFFF" oscAPulseWidth="0x00000000" oscBVolume="0x80000000" oscBPulseWidth="0x00000000" noiseVolume="0x80000000" volume="0xFE000000" pan="0x00000000" lpfFrequency="0x7FFFFFD2" lpfResonance="0x80000000" hpfFrequency="0x80000000" hpfResonance="0x80000000" lfo1Rate="0x26000000" lfo2Rate="0x00000000" modulator1Amount="0x80000000" modulator1Feedback="0x80000000" modulator2Amount="0x80000000" modulator2Feedback="0x80000000" carrier1Feedback="0x80000000" carrier2Feedback="0x80000000" modFXRate="0xC7AE146E" modFXDepth="0xAE147AD9" delayRate="0xF0000000" delayFeedback="0x80000000" reverbAmount="0x80000000" arpeggiatorRate="0x00000000" stutterRate="0x00000000" sampleRateReduction="0x80000000" bitCrush="0x80000000" modFXOffset="0x00000000" modFXFeedback="0x1EB851CF">
+    <envelope1 attack="0x80000000" decay="0xE6666654" sustain="0x7FFFFFFF" release="0x80000000">
+      <release>0x851EB851</release>
+    </envelope1>
+    <envelope2 attack="0xE6666654" decay="0xE6666654" sustain="0xFFFFFFE9" release="0xCC000000" />
+    <patchCables>
+      <patchCable source="velocity" destination="volume" amount="0x3FFFFFE8" />
+    </patchCables>
+    <equalizer bass="0x00000000" treble="0x00000000" bassFrequency="0x00000000" trebleFrequency="0x00000000" />
+  </defaultParams>
+  <arpeggiator mode="off" numOctaves="2" syncLevel="7" />
+  <modKnobs>
+    <modKnob controlsParam="pan" />
+    <modKnob controlsParam="volumePostFX" />
+    <modKnob controlsParam="lpfResonance" />
+    <modKnob controlsParam="lpfFrequency" />
+    <modKnob controlsParam="env1Release" />
+    <modKnob controlsParam="env1Attack" />
+    <modKnob controlsParam="delayFeedback" />
+    <modKnob controlsParam="delayRate" />
+    <modKnob controlsParam="reverbAmount" />
+    <modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+    <modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+    <modKnob controlsParam="lfo1Rate" />
+    <modKnob controlsParam="portamento" />
+    <modKnob controlsParam="stutterRate" />
+    <modKnob controlsParam="bitcrushAmount" />
+    <modKnob controlsParam="sampleRateReduction" />
+  </modKnobs>
+</sound>
